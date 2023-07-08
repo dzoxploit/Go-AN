@@ -1,7 +1,7 @@
 {
 	"info": {
-		"_postman_id": "09921b88-de34-4a8b-914d-9e10a71995c4",
-		"name": "zahir_test",
+		"_postman_id": "499c94a4-7eff-4b8c-98b1-cf430505d5c5",
+		"name": "eratani_test",
 		"schema": "https://schema.getpostman.com/json/collection/v2.1.0/collection.json"
 	},
 	"item": [
@@ -108,6 +108,33 @@
 			"request": {
 				"method": "GET",
 				"header": []
+			},
+			"response": []
+		},
+		{
+			"name": "Get Highest Country Spend Credit Card",
+			"request": {
+				"method": "GET",
+				"header": []
+			},
+			"response": []
+		},
+		{
+			"name": "Get Highest Count Credit CardT ype",
+			"request": {
+				"method": "GET",
+				"header": [],
+				"url": {
+					"raw": "http://localhost:8000/get-highest-credit-card-type",
+					"protocol": "http",
+					"host": [
+						"localhost"
+					],
+					"port": "8000",
+					"path": [
+						"get-highest-credit-card-type"
+					]
+				}
 			},
 			"response": []
 		}

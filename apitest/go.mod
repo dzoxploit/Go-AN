@@ -1,4 +1,4 @@
-module github.com/dzoxploit/crud-contact-golang
+module github.com/dzoxploit/eratani-test-case/apitest
 
 go 1.19
 
