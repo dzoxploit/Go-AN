@@ -1,7 +1,5 @@
 # Go-AN
 Golang Code Test
-Nama : Didin Nur Yahya
-Peminatan Posisi : Back-End Developer
 
 1. Finish TestCase1
    Answer : You can see code in file number1.go
